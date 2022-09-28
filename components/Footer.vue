@@ -36,7 +36,7 @@
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">Contacto</h6>
           <p>
-            <a href="https://instagram.com/expotransportevenezuela" target="_blank" class="text-reset">ventas.expotransporte@gmail.com</a>
+            <a href="mailto:ventas.expotransporte@gmail.com" target="_blank" class="text-reset">ventas.expotransporte@gmail.com</a>
           </p>
         </div>
         <!-- Grid column -->
